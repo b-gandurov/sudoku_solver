@@ -37,4 +37,4 @@ The Pygame library is used to visualize the solving process, with the original n
 
 ## Vizualization
 
-<img src="solve_viz.gif" alt="Sudoku Solver Visualization" width="377"/>
+<img src="solve_viz.gif" alt="Sudoku Solver Visualization" width="277"/>
